@@ -1,0 +1,22 @@
+[
+  {
+    "question": "house",
+    "answer": "Haus"
+  },
+  {
+    "question": "tree",
+    "answer": "Baum"
+  },
+  {
+    "question": "school",
+    "answer": "Schule"
+  },
+  {
+    "question": "network",
+    "answer": "Netzwerk"
+  },
+  {
+    "question": "server",
+    "answer": "Server"
+  }
+]
